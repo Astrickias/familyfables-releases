@@ -3,6 +3,22 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.23.0 – Routinen, Gefühle & Förderziele (20.10.2026)
+Neue Funktionen für Familien, die mit Tagesstruktur arbeiten (z. B. bei ADHS oder Autismus). **Jede lässt sich einzeln ein- und ausschalten:** Eltern → Einstellungen → „Funktionen“.
+- **Tagesroutinen** (Eltern → Aufgaben → „Routinen“)
+  - Vorlagen: Morgenroutine, Nach der Schule, Abendroutine, alle frei anpassbar (Schritte, Symbole, Reihenfolge, Wochentage, Münzen)
+  - Das Kind sieht auf dem Startbildschirm die Routine, die gerade dran ist, und geht sie Schritt für Schritt durch: ein großer Schritt auf einmal, abhaken, weiter
+  - Ohne Foto und ohne Freigabe. Für die ganze Routine gibt es Münzen, EP und ein Leckerli
+- **Sichtbarer Timer:** Bei Schritten mit Minuten (z. B. Zähneputzen 3 min) läuft eine farbige Scheibe ab, wie bei einem „Time Timer“
+- **Aufgaben in Schritten:** Große Aufgaben werden in kleine Schritte zerlegt. Bekannte Aufgaben (Zimmer aufräumen, Spülmaschine, Hausaufgaben …) bekommen automatisch Vorschläge, in der Aufgabenliste lassen sie sich bearbeiten. Das Kind hakt die Schritte im Quest-Fenster ab
+- **Gefühls-Check:** Einmal am Tag fragt das Haustier, wie es dem Kind geht (5 Gesichter, dazu freiwillig der Grund). Bewusst ohne Belohnung, damit die Antworten ehrlich bleiben
+- **Förderziele** (Eltern → Familie → „Gefühle & Förderziele“)
+  - Ziele wie „Zähneputzen ohne Erinnerung“ mit Wochenziel (z. B. an 5 von 7 Tagen)
+  - Eltern bewerten den Tag mit einem Tipp (geschafft / teilweise / nicht), oder das Ziel zählt automatisch über eine Routine
+  - Das Kind sieht seine Ziele im Tab „Held“
+- **Wochenbericht als PDF** für Gespräche mit Ergotherapie, Psychologie oder Schule: Gefühle, Routinen, Ziele, Aufgaben und Nutzung über 7, 14 oder 28 Tage, dazu eigene Beobachtungen. Ohne Fotos, wird direkt geteilt
+- Schatzkammer: Das alte „Magische Zauber-Ei“ ist entfernt, Eier gibt es jetzt nur noch in der Tier-Sammlung
+
 ## 0.22.0 – Tägliche Abenteuer (20.10.2026)
 - **Neu: Tagesgeschenk 🎁** (Startbildschirm)
   - 7-Tage-Kalender: jeden Tag etwas Neues (Münzen, Leckerlis, EP)
