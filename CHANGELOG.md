@@ -3,6 +3,16 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.20.0 – Endboss einstellbar (20.10.2026)
+- **Familien-Endboss einstellbar** (Eltern → Familie → „Endboss anpassen“):
+  - **Wie lange soll der Kampf dauern?** ca. 3 Tage, 1 Woche, 2 Wochen, 1 Monat oder eine eigene Zahl an Lebenspunkten
+  - Die App rechnet die Lebenspunkte aus eurem bisherigen Tempo aus (erledigte Aufgaben pro Tag der letzten 2 Wochen, Geschwister-Combos eingerechnet)
+  - Eigener **Name**, eigene **Belohnung** („Familien-Pizza-Abend“ …) und Aussehen des Bosses
+  - Wahlweise **neuen Kampf starten** (volle Lebenspunkte) oder den bisherigen Schaden behalten
+  - Die Karte zeigt: verbleibende Lebenspunkte, voraussichtliche Restdauer und wie oft der Boss schon besiegt wurde
+  - Die Kinder sehen am Boss das Ziel, z. B. „Ziel: ca. 1 Woche“
+- Einstellungen → „App-Version & Updates“: Link „Alle Änderungen ansehen“
+
 ## 0.19.1 – Bugfix (20.10.2026)
 - **Absturz beim Start behoben**: 0.19.0 ging sofort wieder zu. Vermutete Ursache ist die Verkleinerung der Release-Version (R8). Sie ist vorerst ausgeschaltet, dadurch verhält sich die Release-Version genau wie die getestete. Die App ist dadurch größer (ca. 60 MB).
 - **Absturzmeldung**: Stürzt die App ab, zeigt sie beim nächsten Öffnen einen Fehlerbericht mit „Kopieren“, „Teilen“ und „App neu starten“. Sie sucht dabei gleich nach einer reparierten Version.
