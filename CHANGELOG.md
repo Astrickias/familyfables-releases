@@ -3,6 +3,22 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.21.0 – Haustiere & Mein Zuhause (20.10.2026)
+- **Haustiere neu: Futter sind jetzt Leckerlis 🍖 statt Münzen**
+  - Leckerlis gibt es für erledigte Quests (+2) und Story-Folgen (+1), zum Start 3 Stück
+  - Füttern höchstens 3× pro Tag
+  - Das Haustier wächst über Stufen: Baby → Jungtier → Erwachsen → Legendär (alle 4× Füttern eine Stufe), und wird dabei größer
+  - Laune: satt, „hätte gern ein Leckerli“, „hat Hunger!“. Bei Hunger erscheint ein Hinweis auf dem Startbildschirm
+  - Animation beim Füttern (Hüpfen + Herz)
+- **Neu: Mein Zuhause** (Tab „Held“)
+  - Eigenes Zimmer mit 10 Plätzen (Fenster, Wandbild, Regal, Licht, Bett, Hobby-Ecke, Sitzplatz, Pflanze, Boden, Spielzeug)
+  - 45 Möbel für 15–160 Münzen, manche erst ab einem bestimmten Level
+  - 5 Zimmer-Stile: Schloss, Baumhaus, Kristallhöhle, Unterwasser-Palast, Raumstation
+  - Das Haustier spaziert durchs Zimmer
+  - Gekauftes steht im Münz-Journal: geht beim WLAN-Abgleich nie verloren und wird nie doppelt bezahlt
+- 41 neue 3D-Grafiken (Möbel, Haustier-Launen)
+- **Fehler behoben:** Der Update-Hinweis kam nur alle 3 Stunden. Jetzt wird bei jedem Öffnen nachgesehen (höchstens alle 10 Minuten).
+
 ## 0.20.0 – Endboss einstellbar (20.10.2026)
 - **Familien-Endboss einstellbar** (Eltern → Familie → „Endboss anpassen“):
   - **Wie lange soll der Kampf dauern?** ca. 3 Tage, 1 Woche, 2 Wochen, 1 Monat oder eine eigene Zahl an Lebenspunkten
