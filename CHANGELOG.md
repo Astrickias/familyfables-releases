@@ -3,6 +3,25 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.22.0 – Tägliche Abenteuer (20.10.2026)
+- **Neu: Tagesgeschenk 🎁** (Startbildschirm)
+  - 7-Tage-Kalender: jeden Tag etwas Neues (Münzen, Leckerlis, EP)
+  - Tag 7: **Schatztruhe** mit einem neuen Möbelstück und einem Ei
+  - Wer einen Tag auslässt, fängt wieder bei Tag 1 an
+- **Haustiere: feste Fütterzeiten** statt 3× beliebig
+  - Frühstück (5–12 Uhr), Mittagssnack (12–17 Uhr), Abendessen (17–23 Uhr), nachts schläft das Tier
+  - Der Knopf zeigt, ab wann es wieder Hunger hat
+- **Neu: Tier-Sammlung mit Eiern 🥚** (Tab „Held“)
+  - 9 Tiere in 4 Seltenheiten (Gewöhnlich, Selten, Episch, Legendär), Pyra ist schon dabei
+  - Eier gibt es: 1 zum Start, 1 pro 6 erledigte Quests, 1 aus der Schatztruhe, 1 pro Wochen-Herausforderung
+  - Ei wackelt, knackt, Tier schlüpft. Neue Tiere werden sofort zum Begleiter, doppelte bringen Bonus-Leckerlis
+  - Begleiter jederzeit wechseln
+- **Neu: Wochen-Herausforderung 🏆** (Tab „Quests“): 3 Ziele pro Woche, Belohnung 60 Münzen, 40 EP und ein Ei
+- **Erinnerungen auf dem Kinder-Handy:** Mahlzeit fürs Haustier (ab 7, 14 und 18 Uhr), Tagesgeschenk (ab 15 Uhr, falls noch nicht abgeholt), neues Ei
+- **Für die Testphase:**
+  - Eltern → Familie → „Nutzung der letzten 7 Tage“: wie oft und wie lange jedes Kind die App geöffnet hat, dazu das Feedback der Kinder und ein Knopf „Bericht teilen“
+  - Kinder können im Tab „Held“ mit einem Tipp sagen, wie ihnen die App gefällt und was sie sich wünschen
+
 ## 0.21.0 – Haustiere & Mein Zuhause (20.10.2026)
 - **Haustiere neu: Futter sind jetzt Leckerlis 🍖 statt Münzen**
   - Leckerlis gibt es für erledigte Quests (+2) und Story-Folgen (+1), zum Start 3 Stück
