@@ -3,6 +3,13 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.24.0 – Der Prolog (20.10.2026)
+- **Neu: Prolog beim ersten Start** statt Textseiten. Läuft einmalig auch für Kinder, die schon ein Profil haben
+  - Merlin begrüßt das Kind mit Namen, jede Sprechblase wird vorgelesen (Lautsprecher-Knopf zum Wiederholen)
+  - Merlin schenkt ein Ei: dreimal tippen, es wackelt, knackt, und der Begleiter schlüpft
+  - Erste Übungs-Quest: „Bring ein Glas in die Küche“ und ein Foto mit der magischen Linse. Diesmal gibt es sofort Münzen, EP und Leckerlis mit Münzregen und Fanfare, ab dann prüfen die Eltern die Fotos
+  - Die Übungs-Quest lässt sich überspringen
+
 ## 0.23.0 – Routinen, Gefühle & Förderziele (20.10.2026)
 Neue Funktionen für Familien, die mit Tagesstruktur arbeiten (z. B. bei ADHS oder Autismus). **Jede lässt sich einzeln ein- und ausschalten:** Eltern → Einstellungen → „Funktionen“.
 - **Tagesroutinen** (Eltern → Aufgaben → „Routinen“)
