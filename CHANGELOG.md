@@ -3,6 +3,16 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.28.0 – Professor Zischel & Familien-Momente (20.10.2026)
+- **Neue Figur in Staffel 1: Professor Zischel Brodelbart**, ein chaotischer Erfinder und Alchemist, dessen Erfindungen fast immer explodieren (meist in grünem Rauch)
+  - Folge 3: Er stolpert qualmend aus seiner Hütte bei der Rätsel-Eiche. Das Kind entscheidet, wie es ihm begegnet (helfen, eine Idee haben oder mutig in den Rauch springen)
+  - Folge 9: Er taucht mit seinem „Blubber-Boot“ in der Versunkenen Bibliothek auf. Wer ihm geholfen hat, bekommt ein eigenes Assistenten-Schild
+  - Folge 12: Sein Feuerwerk „Sternenregen Deluxe“ funktioniert endlich (Version 48)
+- **Neu: Familien-Momente in der Story.** Figuren schicken das Kind mit einer kleinen Aufgabe zur Familie, zum Beispiel: „Frag jemanden aus deiner Familie: Was hättest du als Kind am liebsten erfunden?“
+  - Kein Foto, keine Prüfung: einfach machen und „Haben wir gemacht!“ antippen
+  - Kleine Belohnung (5 Münzen, 10 EP, 1 Leckerli), und die Eltern sehen den Moment im Aktivitäts-Log
+  - Die App soll Familien ins Gespräch bringen, nicht das Gespräch ersetzen
+
 ## 0.27.0 – Familie gründen oder beitreten (20.10.2026)
 - **Fehler behoben: Das Update in der App brach ab** („Missing android.support.FILE_PROVIDER_PATHS meta-data“). Updates laufen jetzt über den offiziellen Android-Installer (PackageInstaller), der alte Weg bleibt als Ausweich. **Einmalig muss diese Version von Hand installiert werden**, danach klappt das Update in der App wieder
 - **Neuer erster Start:** „Neue Familie einrichten“ oder „Einer Familie beitreten“. Das zweite Elternteil landet nicht mehr aus Versehen in einer eigenen, leeren Familie
