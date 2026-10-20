@@ -3,6 +3,16 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.26.0 – Bezugspersonen (20.10.2026)
+- **Neu: Bezugspersonen** (Eltern → Einstellungen → Funktionen → „Bezugspersonen“, standardmäßig aus)
+  - Großeltern, der andere Elternteil, Hort, Tagesmutter oder Verwandte stellen **eigene Aufgaben**
+  - Jede Bezugsperson tritt im Spiel als **eigene Figur** auf: Wirtin vom „Goldenen Kessel“, Gärtnerin der Sonnenwiese, Kapitän der Nebelfähre, Hüterin der Turmbibliothek oder Waldläufer. Merlin bleibt den Eltern vorbehalten
+  - Ihre Aufgaben bringen EP, Münzen und Leckerlis, zählen aber **nicht** für Wochen-Herausforderung, Endboss und Ei-Zähler. Die Planung der Kernfamilie bleibt unberührt
+  - Wählbar ist, für welche Kinder sie Aufgaben stellen darf und ob sie Fotos ihrer eigenen Aufgaben **selbst freigeben** darf
+  - **Eigenes Handy der Bezugsperson:** beim Start „Handy mit Eltern verbinden“ wählen, nach der Kopplung die Person antippen. Dort gibt es eine einfache Ansicht mit großen Knöpfen und Vorschlägen. Gefühle, Ziele, Berichte und Einstellungen der Familie sind dort nicht zu sehen
+  - Ohne eigenes Handy: Die Eltern wählen beim Anlegen „Von wem kommt die Aufgabe?“
+  - Die Kinder sehen auf der Quest, von wem sie kommt (z. B. „🍲 Von Oma Rosa“)
+
 ## 0.25.0 – Verschlüsseltes Cloud-Relay (20.10.2026)
 - **Neu: Abgleich unterwegs** (Eltern → Einstellungen → Funktionen → „Abgleich unterwegs (verschlüsselt)“, standardmäßig aus)
   - Wenn sich die Handys nicht im Heim-WLAN erreichen, läuft der Abgleich über Firebase (kostenloser Spark-Plan)
