@@ -3,6 +3,14 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.29.0 – Bodo Reimeklang, der Barde (20.10.2026)
+- **Neue Figur in Staffel 1: Bodo Reimeklang**, reisender Barde und Späher, der alles reimt, nur leider fast nie richtig („Da ist ein Drache … und ein … Zeh!“)
+  - Folge 7: Er kommentiert den Wind-Wettlauf von seiner Wolke aus und dichtet danach ein (schiefes) Heldenlied
+  - Folge 10: Er paddelt im umgedrehten Regenschirm heran und spielt das Sternenlied mit
+  - Folge 12: Im Finale gelingt ihm zum ersten Mal ein perfekter Reim, und er fällt vor Stolz vom Stuhl
+- **Zwei neue Familien-Momente:** einen Witz erzählen und sich den besten Witz der Familie erzählen lassen, außerdem das Lieblingslied aus der Kindheit von Mama oder Papa zusammen anhören
+- **Bodo verkündet jetzt die Wochen-Herausforderung**, jede Woche mit einem anderen Reim
+
 ## 0.28.0 – Professor Zischel & Familien-Momente (20.10.2026)
 - **Neue Figur in Staffel 1: Professor Zischel Brodelbart**, ein chaotischer Erfinder und Alchemist, dessen Erfindungen fast immer explodieren (meist in grünem Rauch)
   - Folge 3: Er stolpert qualmend aus seiner Hütte bei der Rätsel-Eiche. Das Kind entscheidet, wie es ihm begegnet (helfen, eine Idee haben oder mutig in den Rauch springen)
