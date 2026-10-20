@@ -3,6 +3,17 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.27.0 – Familie gründen oder beitreten (20.10.2026)
+- **Fehler behoben: Das Update in der App brach ab** („Missing android.support.FILE_PROVIDER_PATHS meta-data“). Updates laufen jetzt über den offiziellen Android-Installer (PackageInstaller), der alte Weg bleibt als Ausweich. **Einmalig muss diese Version von Hand installiert werden**, danach klappt das Update in der App wieder
+- **Neuer erster Start:** „Neue Familie einrichten“ oder „Einer Familie beitreten“. Das zweite Elternteil landet nicht mehr aus Versehen in einer eigenen, leeren Familie
+- **Beitreten per QR-Code:** Eltern-Bereich → ⚙ → „Geräte verbinden“ zeigt einen QR-Code. Das neue Handy scannt ihn, und Kinder, Aufgaben, Belohnungen und Eltern-PIN sind sofort da. Der Kopplungscode zum Eintippen bleibt als Ausweichweg
+- Nach dem Beitritt: **„Wer bist du?“** Elternteil, Kind oder Bezugsperson
+- **Kurze Eltern-Tour** beim ersten Öffnen des Eltern-Bereichs auf einem Gerät (Fotos prüfen, Aufgaben, Familie, Einstellungen)
+- **Schutz vor vermischten Familien:** Ein Gerät, das schon zu einer Familie mit Kindern oder Aufgaben gehört, lässt sich nicht mehr mit dem Gerät einer anderen Familie koppeln (vorher wären beide zusammengeführt worden)
+- **Gleiche Version auf allen Geräten:** Meldet ein anderes Familien-Handy beim Abgleich eine neuere Version, sucht die App sofort nach dem Update. Ab jetzt überspringen Geräte unbekannte neue Datenarten, statt den Abgleich abzubrechen
+- **Akku-Hinweis:** Ist die Akku-Optimierung an (Samsung, Xiaomi …), erscheint ein Hinweis mit direktem Knopf. Sonst kommen Fotos und Erinnerungen zu spät
+- Das verschlüsselte Relay ist jetzt automatisch der Ersatzweg, sobald Firebase eingerichtet ist (in „Funktionen“ abschaltbar). Das Häkchen „Bei deinen Eltern angekommen“ berücksichtigt jetzt auch das Relay
+
 ## 0.26.0 – Bezugspersonen (20.10.2026)
 - **Neu: Bezugspersonen** (Eltern → Einstellungen → Funktionen → „Bezugspersonen“, standardmäßig aus)
   - Großeltern, der andere Elternteil, Hort, Tagesmutter oder Verwandte stellen **eigene Aufgaben**
