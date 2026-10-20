@@ -3,6 +3,16 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.25.0 – Verschlüsseltes Cloud-Relay (20.10.2026)
+- **Neu: Abgleich unterwegs** (Eltern → Einstellungen → Funktionen → „Abgleich unterwegs (verschlüsselt)“, standardmäßig aus)
+  - Wenn sich die Handys nicht im Heim-WLAN erreichen, läuft der Abgleich über Firebase (kostenloser Spark-Plan)
+  - **Ende-zu-Ende verschlüsselt** mit AES-256-GCM, Schlüssel aus dem Familien-Schlüssel abgeleitet: Google sieht nur Chiffretext, keine Namen, Aufgaben oder Fotos
+  - Ist die App offen, wird sofort abgeglichen, sonst etwa alle 15 Minuten im Hintergrund
+  - Prüffotos werden für den Upload auf ca. 100–150 KB verkleinert und aus der Cloud gelöscht, sobald die Aufgabe geprüft ist
+  - Vorbereitet für einen Push-Wecker (FCM): Geräte hinterlegen ihr Push-Token, die Cloud Function liegt unter `tools/firebase/functions` (braucht den Blaze-Plan)
+  - Der WLAN-Abgleich bleibt der Standard
+- Der Schalter erscheint erst, wenn Firebase eingerichtet ist (Anleitung in DEPLOYMENT.md)
+
 ## 0.24.0 – Der Prolog (20.10.2026)
 - **Neu: Prolog beim ersten Start** statt Textseiten. Läuft einmalig auch für Kinder, die schon ein Profil haben
   - Merlin begrüßt das Kind mit Namen, jede Sprechblase wird vorgelesen (Lautsprecher-Knopf zum Wiederholen)
