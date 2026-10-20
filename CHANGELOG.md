@@ -3,6 +3,10 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.29.1 – Fix: Profil-Knopf (20.10.2026)
+- **Behoben:** Der Personen-Knopf oben in der Kinder-Ansicht sprang direkt zum Profil des Geschwisterkinds. Jetzt öffnet er „Wer spielt gerade?“: Das eigene Kind ist markiert und führt zum eigenen Helden; zu einem anderen Kind wechselt man nur noch, indem man es bewusst antippt
+- Steht auf dem Gerät nur ein Kind, öffnet der Knopf direkt das eigene Profil
+
 ## 0.29.0 – Bodo Reimeklang, der Barde (20.10.2026)
 - **Neue Figur in Staffel 1: Bodo Reimeklang**, reisender Barde und Späher, der alles reimt, nur leider fast nie richtig („Da ist ein Drache … und ein … Zeh!“)
   - Folge 7: Er kommentiert den Wind-Wettlauf von seiner Wolke aus und dichtet danach ein (schiefes) Heldenlied
