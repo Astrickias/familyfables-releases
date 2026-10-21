@@ -52,6 +52,11 @@ prüfen sie per Foto und legen selbst fest, welche echten Belohnungen es gibt.
 
 ## 🧪 Stand der Entwicklung
 
+> **Privates, nicht-kommerzielles Testprojekt.** Family Fables wird derzeit nur mit eingeladenen Testfamilien
+> erprobt. Es gibt keine Einnahmen, keine Werbung und kein Tracking. Wie die App mit Daten umgeht:
+> [Datenschutz in Kurzform](docs/DATENSCHUTZ.md).
+
+
 Family Fables ist in der **Beta** (Versionen 0.x) und wird gerade im Familientest erprobt.
 Neue Funktionen erhöhen die mittlere Zahl (0.**29**.0), Fehlerbehebungen die letzte (0.29.**1**).
 Version 1.0 gibt es zur öffentlichen Veröffentlichung.
