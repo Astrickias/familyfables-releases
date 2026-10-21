@@ -5,7 +5,7 @@
 > Dies ist eine verständliche Zusammenfassung für Testfamilien, keine vollständige Datenschutzerklärung.
 > Die ausführliche, rechtlich geprüfte Fassung folgt zur öffentlichen Veröffentlichung.
 
-**Kontakt bei Fragen zum Datenschutz:** dev@familyfables-app.de
+**Verantwortlich:** Dominik Zeh · E-Mail: dev@familyfables-app.de
 
 ## Das Wichtigste
 
