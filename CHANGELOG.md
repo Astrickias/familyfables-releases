@@ -3,6 +3,16 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.31.0 – Initiative und Schwarzes Brett (21.10.2026)
+- **Grundregel: Was freiwillig passiert, zählt doppelt** (Eltern → Einstellungen → Funktionen, beides einzeln abschaltbar)
+- **Initiative-Bonus:** Aufgaben und Wochen-Routinen bekommen eine Erinnerungszeit (z. B. Do 17:00). Wer vorher von selbst einreicht, bekommt **doppelte Münzen und EP**. Danach gibt es die normalen Punkte, und zur Erinnerungszeit kommt ein freundlicher Hinweis
+  - Auf der Quest-Karte steht „⚡ Bis 17 Uhr: doppelte Punkte!“, beim Foto-Prüfen sehen die Eltern, dass es von selbst erledigt wurde
+- **„Von selbst erledigt“:** Kinder melden etwas, das auf keiner Liste stand (Müll war voll, Spülmaschine ausgeräumt, jemandem geholfen …), mit Foto. Nach der Freigabe gibt es doppelte Punkte
+- **Schwarzes Brett:** Eltern stellen Aufgaben für alle („📌 Schwarzes Brett“ statt eines Kindes, auch als Wochen-Routine). Wer zuerst kommt, schnappt sie sich und bekommt doppelte Punkte
+  - Neue Aufgaben am Brett melden sich auf den Kinder-Handys
+  - Ab einer einstellbaren Uhrzeit (Standard 18:00) verteilen die Eltern die Reste im Tab „Heute“, mit normalen Punkten. Eine Benachrichtigung erinnert daran
+  - Schnappen zwei Kinder gleichzeitig auf verschiedenen Handys, gewinnt beim Abgleich, wer wirklich zuerst war
+
 ## 0.30.0 – Startklar für die Testphase (21.10.2026)
 - **„Ist alles bereit?“** im Eltern-Bereich (Einstellungen): prüft Benachrichtigungen, Akku-Optimierung, Kamera, gekoppelte Geräte, letzten Abgleich, Version und Cloud-Relay, mit einem Knopf zum Beheben
 - **Haustier zum Anfassen:** Antippen, Streicheln, Kitzeln und Ballwerfen; jede Tierart reagiert mit eigenen Sprüchen und Animationen (und schläft nachts)
