@@ -70,5 +70,5 @@ auswählen, und alles ist wieder da.
 
 ---
 
-Nichts davon hilft? Meldet euch bei der Person, von der ihr die App bekommen habt, am besten mit
+Nichts davon hilft? Schreibt an **dev@familyfables-app.de**, am besten mit
 App-Version (⚙ → Updates → „Installiert: Version …“), Handymodell und einer kurzen Beschreibung, was passiert ist.
