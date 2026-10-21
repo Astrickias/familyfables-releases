@@ -16,6 +16,7 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 
 ### 🐉 Haustier & Eier
 - Ein eigenes Haustier, das gefüttert werden will und mit der Zeit wächst
+- **Zum Anfassen:** antippen, streicheln, kitzeln oder Ball werfen. Jede Tierart hat ihre eigenen Sprüche, und nachts schläft sie
 - **Eier ausbrüten:** neun Tierarten in vier Seltenheitsstufen. Eier gibt es für Quests, Schatztruhen und Wochensiege
 
 ### 🏠 Mein Zuhause
@@ -28,6 +29,14 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - **Familien-Momente:** Kleine Aufträge in der Geschichte, die man nur mit den Eltern erledigen kann
   (z. B. „Frag deine Eltern, was sie als Kind erfinden wollten“). Die Eltern sehen sie im Aktivitäts-Log
 - Sammelkarten zu Figuren und Orten
+
+### 🎪 Eröffnungswoche
+- Zum Start feiert das Dorf sieben Tage lang: jeden Tag ein Festgeschenk, verpasste Tage lassen sich nachholen
+- Tag 1: Abzeichen **Gründungsheld** mit goldenem Rahmen um den Helden
+- Außerdem ein Extra-Ei, Bodos Festkonzert (ein Familien-Moment) und das exklusive **Gründer-Set** fürs Zuhause: Banner, Laterne, Pokal und Statue
+
+### 💬 Dorf-Sprüche
+- Merlin, Professor Zischel und Bodo sagen auf dem Startbildschirm etwas, das zur Situation passt: Tageszeit, Haustier, Quests oder Serie. Oft ist eine Anregung dabei, mit den Eltern zu reden
 
 ### 🎁 Tägliche Abenteuer
 - **Tagesgeschenk** mit einer 7-Tage-Reihe und einer Schatztruhe am siebten Tag
@@ -53,12 +62,15 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - **Nutzungsübersicht:** wie oft und wie lange die Kinder-Ansicht offen war
 - **Urlaubsmodus:** Die Tages-Serie der Kinder reißt im Urlaub nicht ab
 - **Backup** als Datei exportieren und wieder einspielen
+- **„Ist alles bereit?“:** prüft auf jedem Gerät Benachrichtigungen, Akku-Optimierung, Kamera, Abgleich, Version und Cloud-Relay, mit einem Knopf zum Beheben
+- **Problem melden:** ein Bericht mit Version, Gerät und Abgleich-Status (ohne Namen, Fotos oder Schlüssel), den ihr vor dem Teilen seht
+- **Datenschutz:** Einwilligungen ansehen, einzeln widerrufen, Nachweis einsehen
 
 ## Für die ganze Familie
 
 - 👵 **Bezugspersonen** 🔘: Großeltern, der andere Elternteil, Hort oder Tagesmutter stellen eigene Aufgaben und treten als eigene Spielfigur auf. Ihre Punkte zählen getrennt, die Planung der Kernfamilie bleibt unberührt
 - 📱 **Mehrere Geräte:** Beitritt per QR-Code, eigene Kinder-Handys ohne PIN, automatischer Abgleich im Heim-WLAN
-- 🔐 **Abgleich unterwegs** 🔘 *(in Vorbereitung)*: Ende-zu-Ende-verschlüsselt, wenn die Handys sich nicht im selben WLAN finden
+- 🔐 **Abgleich unterwegs** 🔘 (mit Einwilligung): Ende-zu-Ende-verschlüsselt über Google Firebase (Frankfurt), wenn die Handys sich nicht im selben WLAN finden
 - 🌍 **Sprachen:** Deutsch und Englisch
 
 ## Was bewusst *nicht* drin ist

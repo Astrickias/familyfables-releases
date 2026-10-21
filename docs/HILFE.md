@@ -33,6 +33,11 @@ oder noch wartet.
 Android-Einstellungen → Apps → Family Fables → **Benachrichtigungen** erlauben und die Akku-Optimierung ausschalten.
 Gerade Samsung, Xiaomi, Huawei und OnePlus beenden Apps im Hintergrund sonst sehr früh.
 
+### 🔒 Nach dem Update fragt die App nach dem Datenschutz
+Das ist ab Version 0.30 einmalig so: Ein Elternteil liest die Hinweise, stimmt zu und bestätigt mit der Eltern-PIN.
+Es reicht, das auf einem Gerät zu machen. Die anderen werden beim nächsten Abgleich freigeschaltet.
+Wer Gefühls-Check und Förderziele weiter nutzen oder unterwegs abgleichen möchte, kreuzt diese Punkte mit an.
+
 ### 🔑 Eltern-PIN vergessen
 Auf dem PIN-Bildschirm „PIN vergessen?“ antippen und die Sicherheitsfrage beantworten.
 
@@ -70,5 +75,6 @@ auswählen, und alles ist wieder da.
 
 ---
 
-Nichts davon hilft? Schreibt an **dev@familyfables-app.de**, am besten mit
+Nichts davon hilft? Am einfachsten: Eltern-Bereich → ⚙ → **„Problem melden“**. Der Bericht enthält Version, Gerät
+und Abgleich-Status schon automatisch. Oder schreibt an **dev@familyfables-app.de**, am besten mit
 App-Version (⚙ → Updates → „Installiert: Version …“), Handymodell und einer kurzen Beschreibung, was passiert ist.

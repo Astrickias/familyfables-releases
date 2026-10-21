@@ -43,11 +43,14 @@ prüfen sie per Foto und legen selbst fest, welche echten Belohnungen es gibt.
 - 🐉 **Haustier & Eier:** füttern, Eier ausbrüten, neun Tierarten zum Sammeln
 - 🏠 **Mein Zuhause:** Möbel und Themen für das eigene Zimmer im Spiel
 - 📖 **Story in Fortsetzungen:** Staffel 1 mit Merlin, Professor Zischel und dem Barden Bodo Reimeklang, mit Familien-Momenten zum gemeinsamen Erleben
+- 🎪 **Eröffnungswoche:** sieben Festtage mit Geschenken, Abzeichen „Gründungsheld“ und exklusivem Gründer-Set
+- 🐾 **Haustier zum Anfassen:** streicheln, kitzeln, Ball werfen, und jede Tierart reagiert anders
 - 🎁 **Tägliche Abenteuer:** Tagesgeschenk, Glücksrad, Wochen-Herausforderung und Familien-Endboss
 - ⏰ **Routinen mit Bild-Timer:** Morgen- und Abendroutinen in kleinen Schritten
 - 💛 **Gefühle & Förderziele** (optional): kurzer Stimmungs-Check, eigene Ziele, Wochenbericht als PDF
 - 👵 **Bezugspersonen** (optional): Oma, Hort oder Tagesmutter stellen eigene Aufgaben, jeweils als eigene Spielfigur
-- 📱 **Mehrere Handys:** Beitritt per QR-Code, automatischer Abgleich im Heim-WLAN
+- 📱 **Mehrere Handys:** Beitritt per QR-Code, automatischer Abgleich im Heim-WLAN, optional verschlüsselt auch unterwegs
+- 🔒 **Datenschutz eingebaut:** Einwilligung der Eltern, freiwillige Punkte einzeln wählbar, Widerruf jederzeit
 - 🌍 Deutsch und Englisch
 
 ## 🧪 Stand der Entwicklung
