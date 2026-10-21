@@ -57,6 +57,7 @@ Ansicht mit großen Knöpfen. Im Spiel erscheinen sie als eigene Figur, zum Beis
 ## 6. Tipps für den Start
 
 - **Lieber wenige, machbare Aufgaben** als eine lange Liste. Erfolgserlebnisse in der ersten Woche zählen am meisten.
+- **Initiative belohnen:** Gebt Aufgaben eine Erinnerungszeit und probiert das Schwarze Brett aus. Wer von selbst anpackt, bekommt doppelte Punkte.
 - **Echte Belohnungen gemeinsam festlegen** (Eltern-Bereich → Belohnungen): z. B. „Filmabend aussuchen“ oder
   „30 Min. länger aufbleiben“. Kinder, die mitentscheiden, sind motivierter.
 - **Fotos zeitnah prüfen** und dem Kind auch persönlich sagen, was gut war. Das ist für viele Kinder das Schönste.

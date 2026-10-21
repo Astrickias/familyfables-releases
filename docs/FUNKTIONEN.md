@@ -14,6 +14,15 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - **Blitz-Quests** mit Zeitlimit für zwischendurch
 - 🔘 **Quest-Schritte:** große Aufgaben in kleine Häkchen zerlegt (z. B. „Zimmer“ → Boden, Schreibtisch, Bett)
 
+### ⚡ Initiative zählt doppelt 🔘
+- **Erinnerungszeit pro Aufgabe** (z. B. Donnerstag 17:00): Wer vorher von selbst erledigt, bekommt doppelte Münzen und EP. Danach gibt es die normalen Punkte
+- **„Von selbst erledigt“:** Kinder melden etwas, das auf keiner Liste stand (Müll war voll, Spülmaschine ausgeräumt, jemandem geholfen), mit Foto. Nach der Freigabe gibt es doppelte Punkte
+
+### 📌 Schwarzes Brett 🔘
+- Eltern stellen Aufgaben für alle statt für ein bestimmtes Kind, auch als Wochen-Routine
+- Wer zuerst kommt, schnappt sie sich und bekommt doppelte Punkte
+- Ab einer einstellbaren Uhrzeit (Standard 18:00) verteilen die Eltern die Reste, mit normalen Punkten
+
 ### 🐉 Haustier & Eier
 - Ein eigenes Haustier, das gefüttert werden will und mit der Zeit wächst
 - **Zum Anfassen:** antippen, streicheln, kitzeln oder Ball werfen. Jede Tierart hat ihre eigenen Sprüche, und nachts schläft sie

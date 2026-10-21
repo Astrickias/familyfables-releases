@@ -47,6 +47,11 @@ den Bericht an die Person schicken, von der ihr die App habt. Damit lässt sich 
 
 ## Häufige Fragen
 
+**Wie funktionieren Initiative-Bonus und Schwarzes Brett?**
+Beim Anlegen einer Aufgabe stellt ihr eine **Erinnerungszeit** ein. Wird die Aufgabe vorher eingereicht, gibt es doppelte Punkte.
+Statt eines Kindes könnt ihr **„📌 Schwarzes Brett (alle)“** wählen. Dann kann sich jedes Kind die Aufgabe schnappen.
+Was um 18:00 (einstellbar) noch übrig ist, verteilt ihr im Tab „Heute“. Beides lässt sich unter ⚙ → Funktionen abschalten.
+
 **Brauche ich ein Konto oder Internet?**
 Nein. Family Fables funktioniert ohne Konto. Internet braucht die App nur für Updates (und für die
 optionale KI-Funktion). Der Abgleich zwischen den Handys läuft im Heim-WLAN.
