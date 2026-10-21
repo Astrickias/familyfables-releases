@@ -5,11 +5,12 @@
 ## 1. Die Familie gründen (erstes Eltern-Handy)
 
 1. App öffnen → **„Neue Familie einrichten“**.
-2. **Eltern-PIN** festlegen. Sie schützt den Eltern-Bereich vor neugierigen Heldenfingern.
+2. **Datenschutz:** Hinweise lesen und zustimmen. Die freiwilligen Punkte (Gefühle und Ziele, Abgleich unterwegs, KI) wählt ihr einzeln.
+3. **Eltern-PIN** festlegen. Sie schützt den Eltern-Bereich vor neugierigen Heldenfingern.
    Dazu eine Sicherheitsfrage, falls die PIN einmal vergessen wird.
-3. **Kinder anlegen:** Vorname oder Spitzname und Alter. Alles lässt sich später ändern.
-4. Die kurze **Eltern-Tour** zeigt die vier Bereiche: Fotos prüfen, Aufgaben, Familie, Einstellungen.
-5. Erste Aufgaben anlegen. Der Einrichtungs-Assistent schlägt ein paar typische vor. Ein guter Start sind 2–3 Aufgaben pro Kind und Tag.
+4. **Kinder anlegen:** Vorname oder Spitzname und Alter. Alles lässt sich später ändern.
+5. Die kurze **Eltern-Tour** zeigt die vier Bereiche: Fotos prüfen, Aufgaben, Familie, Einstellungen.
+6. Erste Aufgaben anlegen. Der Einrichtungs-Assistent schlägt ein paar typische vor. Ein guter Start sind 2–3 Aufgaben pro Kind und Tag.
 
 Beim ersten Öffnen der Kinder-Ansicht erlebt jedes Kind den **Prolog**: Merlin begrüßt es, es baut
 seinen Helden, bekommt ein Haustier-Ei und erledigt eine erste Übungs-Quest.
@@ -48,6 +49,7 @@ Ansicht mit großen Knöpfen. Im Spiel erscheinen sie als eigene Figur, zum Beis
 - **Benachrichtigungen erlauben**, sonst gibt es keine Hinweise auf neue Quests und Fotos zum Prüfen.
 - **Akku-Optimierung ausschalten** für Family Fables. Gerade Samsung, Xiaomi, Huawei und OnePlus bremsen
   Apps im Hintergrund stark. Die App zeigt dafür einen Hinweis mit direktem Knopf.
+- Im Eltern-Bereich unter **„Ist alles bereit?“** seht ihr auf einen Blick, ob auf diesem Gerät alles passt.
 - Der Abgleich läuft über das **Heim-WLAN**. Am schnellsten geht es, wenn beide Apps gleichzeitig offen sind.
   Fotos vom Kinder-Handy kommen an, sobald das Eltern-Handy die App im selben WLAN öffnet.
 - Alle Geräte auf **derselben Version** halten (siehe [Updates](INSTALLATION.md#updates)).

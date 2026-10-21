@@ -27,10 +27,23 @@
 
 - Im **Heim-WLAN** tauschen eure Geräte die Daten direkt untereinander aus. Das geht nur mit dem gemeinsamen
   **Familien-Schlüssel**, den ein Gerät beim Beitritt (QR-Code oder 6-stelliger Code) bekommt.
-- **Abgleich unterwegs** *(in Vorbereitung, abschaltbar)*: Finden sich die Handys nicht im WLAN, kann der
-  Abgleich über einen Cloud-Dienst (Google Firebase) laufen. Die Daten werden vorher auf dem Handy
+- **Abgleich unterwegs** *(nur mit eurer Einwilligung, jederzeit widerrufbar)*: Finden sich die Handys nicht im WLAN,
+  läuft der Abgleich über Google Firebase (Speicherort Frankfurt am Main). Die Daten werden vorher auf dem Handy
   **Ende-zu-Ende verschlüsselt** (AES-256). Der Dienst sieht nur unlesbaren Datensalat, keine Namen,
   Aufgaben oder Fotos. Fotos werden dort gelöscht, sobald die Aufgabe geprüft ist.
+
+## Einwilligung
+
+Beim Einrichten (und einmalig nach dem Update auf 0.30) stimmt ein Elternteil den Datenschutzhinweisen zu,
+bei bestehenden Familien bestätigt mit der Eltern-PIN. Freiwillig und einzeln wählbar, nicht vorausgewählt:
+
+- **Gefühls-Check und Förderziele** (können Gesundheitsdaten sein, deshalb ausdrückliche Einwilligung)
+- **Abgleich unterwegs** (Google Firebase)
+- **KI-Geschichten** (Google Gemini)
+
+Widerruf jederzeit unter Eltern-Bereich → Einstellungen → **Datenschutz**. Beim Widerruf werden die zugehörigen
+Daten gelöscht (Gefühle und Ziele auf allen Geräten, beim Abgleich unterwegs die Familiendaten in Firebase).
+Die vollständigen Datenschutzhinweise stehen in der App.
 
 ## Was die App ins Internet schickt
 
