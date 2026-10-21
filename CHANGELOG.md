@@ -3,6 +3,21 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.30.0 – Startklar für die Testphase (21.10.2026)
+- **„Ist alles bereit?“** im Eltern-Bereich (Einstellungen): prüft Benachrichtigungen, Akku-Optimierung, Kamera, gekoppelte Geräte, letzten Abgleich, Version und Cloud-Relay, mit einem Knopf zum Beheben
+- **Haustier zum Anfassen:** Antippen, Streicheln, Kitzeln und Ballwerfen; jede Tierart reagiert mit eigenen Sprüchen und Animationen (und schläft nachts)
+- **Eröffnungswoche:** Sieben Tage lang ein Festgeschenk pro Tag; verpasste Tage lassen sich nachholen
+  - Tag 1: Abzeichen **Gründungsheld** und goldener Rahmen am Helden
+  - Tag 3: ein Extra-Ei
+  - Tag 5: Bodos Festkonzert, ein Familien-Moment (die Eltern sehen es im Aktivitäts-Log)
+  - **Gründer-Set:** Banner, Laterne, Pokal und Statue fürs Zuhause, exklusiv und nicht kaufbar
+- **Dorf-Sprüche:** Merlin, Professor Zischel und Bodo sagen auf dem Startbildschirm etwas Passendes (Tageszeit, Haustier, Quests, Serie …), mit rund 40 Sprüchen und oft mit einer Anregung, mit den Eltern zu reden; antippen zeigt den nächsten Spruch
+- **Datenschutz-Einwilligung (DSGVO):** Beim Einrichten einer neuen Familie und einmalig für bestehende Familien (mit Eltern-PIN) stimmt ein Elternteil zu, erst danach geht es los
+  - Freiwillige Punkte einzeln und nicht vorangekreuzt: **Gefühls-Check und Förderziele** (ausdrücklich nach Art. 9), **Abgleich unterwegs** (Firebase) und **KI-Geschichten** (Gemini). Ohne Einwilligung bleiben diese Funktionen aus, auch wenn ihr Schalter an ist
+  - **Widerruf jederzeit** unter Einstellungen → Datenschutz. Beim Widerruf von „Gefühle und Ziele“ werden die gespeicherten Daten auf allen Geräten gelöscht, beim Widerruf von „Abgleich unterwegs“ die Familiendaten in Firebase
+  - **Nachweis:** wann, auf welchem Gerätemodell und für welche Fassung zugestimmt oder widerrufen wurde
+  - Datenschutzhinweise direkt in der App (DE/EN). Der Kontakt des Verantwortlichen kommt über die Repository-Variable `PRIVACY_CONTACT`
+- **Problem melden** (Eltern-Bereich): ein Bericht mit Version, Gerät, Android-Version, Rolle, Abgleich- und Relay-Status sowie dem letzten Absturz; vor dem Teilen sichtbar, ohne Namen, Fotos oder Familien-Schlüssel
 ## 0.29.1 – Fix: Profil-Knopf (20.10.2026)
 - **Behoben:** Der Personen-Knopf oben in der Kinder-Ansicht sprang direkt zum Profil des Geschwisterkinds. Jetzt öffnet er „Wer spielt gerade?“: Das eigene Kind ist markiert und führt zum eigenen Helden; zu einem anderen Kind wechselt man nur noch, indem man es bewusst antippt
 - Steht auf dem Gerät nur ein Kind, öffnet der Knopf direkt das eigene Profil
