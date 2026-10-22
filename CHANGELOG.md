@@ -3,6 +3,20 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.35.0 – Avalon, Schmiede und Material (22.10.2026)
+- **Material zum Basteln:** Eichenholz, Mondstein, Feenseide, Sternensilber, Kristallsplitter und die seltene Drachenschuppe
+  - Viel Material gibt es für Aufgaben vom **Schwarzen Brett** und für **„Von selbst erledigt“**, für gestellte Aufgaben nur selten
+  - Jede Folge der Geschichte gibt beim ersten Mal das Material ihrer Region
+- **Überraschung in der Truhe:** Jede freigegebene Quest bringt zusätzlich etwas, das man vorher nicht kennt: Leckerli, Sternsplitter oder Material
+- **Schmiede:** Besondere Möbel werden aus Material hergestellt statt gekauft. Neun edle Möbel gibt es jetzt nur noch hier (schon gekaufte bleiben natürlich), dazu acht neue Bastel-Möbel
+- **Prüfungen in der Geschichte:** In fünf Folgen wird ein Minispiel Teil der Handlung, mit Ziel und ohne Spielenergie. Wer besteht, findet Material und eine Drachenschuppe
+- **Eltern spielen mit:** Im Eltern-Bereich unter „Heute“ → „Mitspielen“ bekommt jeder Elternteil einen eigenen Helden. Spielhalle, Haustier, Zimmer und Schmiede wie bei den Kindern; Erledigtes tragt ihr selbst ein, ohne Prüfung. Eltern zählen in Bestenliste, Familienziel und Boss mit. Eine eigene Geschichte für Erwachsene folgt später
+- **Avalon, die Familien-Stadt:** Ein Schild über dem Burghof führt nach Avalon mit Gildenhalle, Hafen, Spielhalle und Schmiede
+  - **Gildenhalle:** Jede Woche ein neuer Boss, den die ganze Familie gemeinsam besiegt. Jede Quest, jede Spielrunde zählt. Dazu drei **Familien-Aufträge** pro Woche mit Belohnung für jeden
+  - **Live-Angriff im WLAN:** Ein Gerät startet, alle anderen im selben WLAN machen mit und tippen 45 Sekunden um die Wette. Je mehr mitmachen, desto stärker der Angriff
+  - **Hafen:** Das Haustier auf eine Expedition schicken (1, 4 oder 10 Stunden) und Material mitbringen lassen. Geschenke (Material, Sternsplitter, Leckerlis) an Geschwister und Eltern schicken
+  - **Familien-Chat:** Nachrichten nur innerhalb der Familie, mit großen Schnellnachrichten und Stickern. Eltern schreiben im Eltern-Bereich unter „Heute“ mit. Unter Funktionen lässt sich der freie Text für Kinder abschalten (dann nur Schnellnachrichten und Sticker) oder der Chat ganz
+
 ## 0.34.0 – Spielhalle mit Minispielen (22.10.2026)
 - **Spielhalle** mit vier Minispielen, je 1 bis 3 Minuten pro Runde:
   - **Drachenflug:** Mit dem eigenen Haustier durch die Wolkentürme fliegen und Münzen sammeln
@@ -13,6 +27,7 @@
 - **Sternsplitter** als eigene Spielwährung: Leckerlis fürs Haustier und Sammelkristalle für die Vitrine. Münzen gibt es weiterhin nur für echte Aufgaben
 - **Rekorde** für jedes Spiel, ein gemeinsames **Familienziel** pro Woche und eine **Familien-Bestenliste** ab Stufe 10
 - In Eldoria schwebt die Spielhalle als Schild über dem Burghof, im klassischen Design steht sie in der Schatzkammer
+
 ## 0.33.1 – Fehlerbehebung (22.10.2026)
 - **Absturz behoben:** Im Design „Eldoria“ stürzte die App ab, wenn man auf dem Burghof den Kompass (Weltkarte) antippte
 
