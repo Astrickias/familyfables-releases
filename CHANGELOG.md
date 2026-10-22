@@ -3,6 +3,9 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.33.1 – Fehlerbehebung (22.10.2026)
+- **Absturz behoben:** Im Design „Eldoria“ stürzte die App ab, wenn man auf dem Burghof den Kompass (Weltkarte) antippte
+
 ## 0.33.0 – Eldoria wird eine eigene Welt (22.10.2026)
 - **Eldoria ist jetzt vom klassischen Design getrennt:** eigener Aufbau, eigene Optik, keine lila Karten und keine Emojis mehr
   - **Burghof als Startseite:** Statt Tabs gibt es Orte im gemalten Hof. Das Questbrett, das Tor zu Merlins Halle (Geschichte), die Schatztruhe und dein eigener Held mit Haustier sind antippbar. Hüpfende Zähler zeigen, wo etwas wartet
