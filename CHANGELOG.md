@@ -3,6 +3,10 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.35.1 – Fehlerbehebung (22.10.2026)
+- **Eltern-Helden:** Beim Erstellen eines Helden für Eltern wird kein Alter mehr abgefragt (vorher nur 3 bis 17 Jahre möglich)
+- **Updates auf Kinderhandys:** Erreicht ein Handy die Update-Seite nicht (z. B. wegen Kindersicherung im Router), holt es sich die neue Version jetzt direkt von einem Familienhandy im selben WLAN. In den Update-Einstellungen steht außerdem, warum die letzte Prüfung nicht geklappt hat. Ab Android 12 laufen spätere Updates ohne zusätzliche Bestätigung
+
 ## 0.35.0 – Avalon, Schmiede und Material (22.10.2026)
 - **Material zum Basteln:** Eichenholz, Mondstein, Feenseide, Sternensilber, Kristallsplitter und die seltene Drachenschuppe
   - Viel Material gibt es für Aufgaben vom **Schwarzen Brett** und für **„Von selbst erledigt“**, für gestellte Aufgaben nur selten
