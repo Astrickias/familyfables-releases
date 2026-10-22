@@ -3,6 +3,15 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.32.0 – Design „Eldoria“, Weltkarte und Intro (22.10.2026)
+- **Zwei Designs zur Wahl, pro Gerät:** „Klassisch“ (wie bisher, Standard) oder „Eldoria“ mit gemalten Figuren, Hintergründen und verzierten Goldrahmen
+  - Gleicher Aufbau in beiden Designs: Alle Knöpfe, Tabs und Abläufe bleiben an ihrem Platz, nur die Optik ändert sich
+  - Wählbar für das Kind unter „Held“ (mit Vorschau beider Designs) und für Eltern in den Geräte-Einstellungen
+  - Bilder kommen nach und nach dazu; wo noch keins da ist, bleibt das bisherige Symbol
+  - Über 100 gemalte Bilder: alle Helden-Klassen, Merlin und die Dorfbewohner, Haustiere, Gegenstände, Zimmer, Story-Hintergründe und Bezugspersonen
+- **Weltkarte von Eldoria** im Story-Bereich: Die Orte aus Staffel 1 werden mit dem Story-Fortschritt freigelegt, der Held steht dort, wo die nächste Folge spielt. Alles andere liegt im Nebel. Tippt man hinein, antwortet Merlin geheimnisvoll
+- **Eröffnungsfilm:** Beim ersten Öffnen der Kinder-Ansicht auf einem Gerät läuft ein kurzes Intro (Welt, Schloss, Merlin, Drachenei). Jederzeit überspringbar, unter „Held“ noch einmal abspielbar
+
 ## 0.31.0 – Initiative und Schwarzes Brett (21.10.2026)
 - **Grundregel: Was freiwillig passiert, zählt doppelt** (Eltern → Einstellungen → Funktionen, beides einzeln abschaltbar)
 - **Initiative-Bonus:** Aufgaben und Wochen-Routinen bekommen eine Erinnerungszeit (z. B. Do 17:00). Wer vorher von selbst einreicht, bekommt **doppelte Münzen und EP**. Danach gibt es die normalen Punkte, und zur Erinnerungszeit kommt ein freundlicher Hinweis
