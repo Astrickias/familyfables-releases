@@ -34,6 +34,12 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - Gilt **pro Gerät**: Das Kind wählt unter „Held“ bzw. „Aussehen“, Eltern in den Geräte-Einstellungen
 - **Eröffnungsfilm:** Beim ersten Öffnen läuft ein kurzes Intro, überspringbar und erneut abspielbar
 
+### 🎮 Spielhalle 🔘
+- Vier Minispiele mit kurzen Runden (1 bis 3 Minuten): **Drachenflug**, **Monsterjagd**, **Kristall-Match** und **Zaubertrank**
+- **Spielenergie:** jeden Tag ein paar Runden gratis, jede freigegebene Quest bringt neue dazu, mit Obergrenze pro Tag (alles einstellbar)
+- **Sternsplitter** als eigene Spielwährung für Leckerlis und Sammelkristalle. Münzen gibt es weiterhin nur für echte Aufgaben
+- Eigene Rekorde, ein gemeinsames Familienziel pro Woche und ab Stufe 10 eine Familien-Bestenliste
+
 ### 🐉 Haustier & Eier
 - Ein eigenes Haustier, das gefüttert werden will und mit der Zeit wächst
 - **Zum Anfassen:** antippen, streicheln, kitzeln oder Ball werfen. Jede Tierart hat ihre eigenen Sprüche, und nachts schläft sie
