@@ -24,10 +24,15 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - Ab einer einstellbaren Uhrzeit (Standard 18:00) verteilen die Eltern die Reste, mit normalen Punkten
 
 ### 🎨 Zwei Designs
-- **„Klassisch“** (Standard) oder **„Eldoria“** mit gemalten Helden, Figuren, Haustieren, Gegenständen, Zimmern und Story-Hintergründen
-- Gilt **pro Gerät**: Das Kind wählt unter „Held“ (mit Vorschau), Eltern in den Geräte-Einstellungen
-- Aufbau, Knöpfe und Abläufe bleiben in beiden Designs gleich, nur die Optik wechselt
-- **Eröffnungsfilm:** Beim ersten Öffnen läuft ein kurzes Intro, überspringbar und unter „Held“ erneut abspielbar
+- **„Klassisch“** (Standard): die bekannte Ansicht mit vier Bereichen unten
+- **„Eldoria“**: eine eigene, durchgehend gemalte Spielwelt
+  - **Burghof als Startseite:** Questbrett, Tor zu Merlins Halle (Geschichten), Schatztruhe und der eigene Held mit Haustier sind antippbar
+  - **Merlin** sagt unten immer die eine Sache, die gerade dran ist
+  - **Questbrett, Schatzkammer, Heldenzimmer** als eigene Orte, jeder mit derselben Kopfzeile und dem Burghof-Knopf
+  - **Belohnungs-Moment** nach der Freigabe: Truhe, fliegende Münzen, Beute zählt hoch
+  - **Geschichten als Bilderbuch** mit großen Figuren
+- Gilt **pro Gerät**: Das Kind wählt unter „Held“ bzw. „Aussehen“, Eltern in den Geräte-Einstellungen
+- **Eröffnungsfilm:** Beim ersten Öffnen läuft ein kurzes Intro, überspringbar und erneut abspielbar
 
 ### 🐉 Haustier & Eier
 - Ein eigenes Haustier, das gefüttert werden will und mit der Zeit wächst
