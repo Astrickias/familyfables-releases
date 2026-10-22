@@ -3,6 +3,18 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.33.0 – Eldoria wird eine eigene Welt (22.10.2026)
+- **Eldoria ist jetzt vom klassischen Design getrennt:** eigener Aufbau, eigene Optik, keine lila Karten und keine Emojis mehr
+  - **Burghof als Startseite:** Statt Tabs gibt es Orte im gemalten Hof. Das Questbrett, das Tor zu Merlins Halle (Geschichte), die Schatztruhe und dein eigener Held mit Haustier sind antippbar. Hüpfende Zähler zeigen, wo etwas wartet
+  - **Merlin unten** sagt immer genau die eine Sache, die jetzt dran ist, mit einem großen „Los!“-Knopf
+  - **Questbrett:** Quests hängen als Pergament-Zettel am Holzbrett, mit Foto-Knopf, Wachssiegel „wartet“ und Siegel „geschafft“
+  - **Schatzkammer:** Münzbeutel, eigenes Glücksrad zum Drehen, Gutscheine als Eintrittskarten mit Fortschritt, Beute-Regal
+  - **Heldenzimmer:** Held und Haustier im eigenen Zimmer, große Holzplaketten für Haustier, Eier, Zimmer und Trophäen
+  - **Belohnungs-Moment:** Wenn die Eltern eine Quest freigeben, springt die Truhe auf, Münzen fliegen und die Beute zählt hoch
+  - **Geschichten als Bilderbuch:** Sprecher groß in der Szene, der eigene Held daneben, Text auf einer Pergament-Seite
+  - Jeder Ort hat oben dieselbe Kopfzeile mit dem Burghof-Knopf, damit man sich nie verläuft
+- Das klassische Design bleibt unverändert
+
 ## 0.32.0 – Design „Eldoria“, Weltkarte und Intro (22.10.2026)
 - **Zwei Designs zur Wahl, pro Gerät:** „Klassisch“ (wie bisher, Standard) oder „Eldoria“ mit gemalten Figuren, Hintergründen und verzierten Goldrahmen
   - Gleicher Aufbau in beiden Designs: Alle Knöpfe, Tabs und Abläufe bleiben an ihrem Platz, nur die Optik ändert sich
