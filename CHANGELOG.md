@@ -3,6 +3,16 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.34.0 – Spielhalle mit Minispielen (22.10.2026)
+- **Spielhalle** mit vier Minispielen, je 1 bis 3 Minuten pro Runde:
+  - **Drachenflug:** Mit dem eigenen Haustier durch die Wolkentürme fliegen und Münzen sammeln
+  - **Monsterjagd:** Staubmonster in der Burg wegzaubern, aber Bimbel das Schlossgespenst verschonen
+  - **Kristall-Match:** Edelsteine tauschen, drei gleiche verschwinden, 20 Züge
+  - **Zaubertrank:** Zischels Rezept merken und die Zutaten in der richtigen Reihenfolge in den Kessel werfen
+- **Spielenergie:** Jeden Tag ein paar Runden gratis, jede freigegebene Quest bringt neue Runden dazu, mit Obergrenze pro Tag. Eltern stellen alles unter Einstellungen → Funktionen ein oder schalten die Spiele ganz ab
+- **Sternsplitter** als eigene Spielwährung: Leckerlis fürs Haustier und Sammelkristalle für die Vitrine. Münzen gibt es weiterhin nur für echte Aufgaben
+- **Rekorde** für jedes Spiel, ein gemeinsames **Familienziel** pro Woche und eine **Familien-Bestenliste** ab Stufe 10
+- In Eldoria schwebt die Spielhalle als Schild über dem Burghof, im klassischen Design steht sie in der Schatzkammer
 ## 0.33.1 – Fehlerbehebung (22.10.2026)
 - **Absturz behoben:** Im Design „Eldoria“ stürzte die App ab, wenn man auf dem Burghof den Kompass (Weltkarte) antippte
 
