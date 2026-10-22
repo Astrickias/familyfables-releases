@@ -41,6 +41,8 @@ prüfen sie per Foto und legen selbst fest, welche echten Belohnungen es gibt.
 
 - 🗡️ **Quests statt Ermahnungen:** Aufgaben mit Foto-Nachweis, Münzen, Erfahrungspunkten und Leveln
 - ⚡ **Initiative zählt doppelt:** vor der Erinnerung erledigt, „Von selbst erledigt“ oder vom **Schwarzen Brett** geschnappt bringt doppelte Punkte
+- 🎨 **Zwei Designs pro Gerät:** „Klassisch“ oder das gemalte **„Eldoria“** mit über 100 Bildern, gleicher Aufbau in beiden
+- 🗺️ **Weltkarte:** Orte der Story werden mit dem Fortschritt aus dem Nebel freigelegt
 - 🐉 **Haustier & Eier:** füttern, Eier ausbrüten, neun Tierarten zum Sammeln
 - 🏠 **Mein Zuhause:** Möbel und Themen für das eigene Zimmer im Spiel
 - 📖 **Story in Fortsetzungen:** Staffel 1 mit Merlin, Professor Zischel und dem Barden Bodo Reimeklang, mit Familien-Momenten zum gemeinsamen Erleben

@@ -23,6 +23,12 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - Wer zuerst kommt, schnappt sie sich und bekommt doppelte Punkte
 - Ab einer einstellbaren Uhrzeit (Standard 18:00) verteilen die Eltern die Reste, mit normalen Punkten
 
+### 🎨 Zwei Designs
+- **„Klassisch“** (Standard) oder **„Eldoria“** mit gemalten Helden, Figuren, Haustieren, Gegenständen, Zimmern und Story-Hintergründen
+- Gilt **pro Gerät**: Das Kind wählt unter „Held“ (mit Vorschau), Eltern in den Geräte-Einstellungen
+- Aufbau, Knöpfe und Abläufe bleiben in beiden Designs gleich, nur die Optik wechselt
+- **Eröffnungsfilm:** Beim ersten Öffnen läuft ein kurzes Intro, überspringbar und unter „Held“ erneut abspielbar
+
 ### 🐉 Haustier & Eier
 - Ein eigenes Haustier, das gefüttert werden will und mit der Zeit wächst
 - **Zum Anfassen:** antippen, streicheln, kitzeln oder Ball werfen. Jede Tierart hat ihre eigenen Sprüche, und nachts schläft sie
@@ -38,6 +44,7 @@ Die Grundlage sind Quests, Münzen und Belohnungen. Alles mit 🔘 lässt sich u
 - **Familien-Momente:** Kleine Aufträge in der Geschichte, die man nur mit den Eltern erledigen kann
   (z. B. „Frag deine Eltern, was sie als Kind erfinden wollten“). Die Eltern sehen sie im Aktivitäts-Log
 - Sammelkarten zu Figuren und Orten
+- **Weltkarte von Eldoria** (Tab im Story-Bereich): Besuchte Orte werden freigelegt, der Held steht dort, wo die nächste Folge spielt. Der Rest liegt im Nebel
 
 ### 🎪 Eröffnungswoche
 - Zum Start feiert das Dorf sieben Tage lang: jeden Tag ein Festgeschenk, verpasste Tage lassen sich nachholen
