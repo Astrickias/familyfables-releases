@@ -3,6 +3,14 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.38.0 – Die neue Schmiede (23.10.2026)
+- **Werkbank mit 3×3-Raster:** Material selbst ins Raster legen, die Form entscheidet, was entsteht. Ein Stück Holz ergibt Bretter, zwei Bretter übereinander Stäbe, daraus und aus Feldstein oder Barren entstehen Werkzeuge, Schwerter, Helme, Rüstungen und Schilde
+- **Rezepte entdecken:** Neue Rezepte findet man durch Ausprobieren. Im Rezeptbuch gibt Meister Ambos Tipps zur Form, entdeckte Rezepte zeigen ihr Muster
+- **Schmelzofen:** Eisen-, Silber-, Kristall- und Drachenerz werden zu Barren. Das dauert je nach Stufe 10 bis 25 Minuten
+- **Werkzeuge beim Schmied:** Axt und Spitzhacke werden jetzt auf der Werkbank gebaut, weiterhin erst nach der Meisterprüfung bei Bruno bzw. Greta
+- **Waffen und Rüstungen in 5 Stufen:** Stein und Eisen sind Standard, Silber und Kristall selten, Drachen legendär. Es gibt sie auf drei Wegen: selbst schmieden, als Belohnung für jeden zweiten Dungeon-Sieg und in jeder dritten Folge der Geschichte
+- **Heldenkraft:** Die beste Ausrüstung wird automatisch getragen. Sie macht stärker: Jede Quest trifft den Boss in Avalon härter
+
 ## 0.37.0 – Dungeons (23.10.2026)
 - **Dungeons:** Große Aufgaben werden zum Bosskampf. Eltern schalten im Eltern-Bereich unter „Heute“ → „Dungeons“ zum Beispiel „Zimmer aufräumen“ als Dungeon ein und wählen einen Wochentag. An diesem Tag dringt ein Mini-Boss ins Reich ein, mit großem Alarm statt der üblichen Aufgabe
 - **Drei Phasen:** Jede erledigte Teilaufgabe trifft den Boss sofort. Für manche Teilaufgaben braucht es ein Foto. Der Endschlag ist ein Foto vom Ergebnis, das die Eltern prüfen; danach gibt es eine große Truhe mit Drachenschuppe und Sternsplittern
