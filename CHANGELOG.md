@@ -3,6 +3,13 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.37.0 – Dungeons (23.10.2026)
+- **Dungeons:** Große Aufgaben werden zum Bosskampf. Eltern schalten im Eltern-Bereich unter „Heute“ → „Dungeons“ zum Beispiel „Zimmer aufräumen“ als Dungeon ein und wählen einen Wochentag. An diesem Tag dringt ein Mini-Boss ins Reich ein, mit großem Alarm statt der üblichen Aufgabe
+- **Drei Phasen:** Jede erledigte Teilaufgabe trifft den Boss sofort. Für manche Teilaufgaben braucht es ein Foto. Der Endschlag ist ein Foto vom Ergebnis, das die Eltern prüfen; danach gibt es eine große Truhe mit Drachenschuppe und Sternsplittern
+- **Sechs Bosse:** Fusselfürst, Krimskrams der Chaos-Kobold, Sockenwurm, Knitterich das Wäschegespenst, Klotzklopper der Spielzeug-Golem und die Krümelkrake. Jede Woche kommt ein anderer, nicht Geschafftes wird zum nächsten Dungeon-Tag zurückgesetzt
+- **Vorlagen:** Zimmer aufräumen, Bad putzen, Großputz, Keller oder Garage und ein eigener Dungeon. Phasen und Teilaufgaben lassen sich anpassen
+- **Keine doppelten Aufgaben:** Solange ein Dungeon an ist, verschwindet dieselbe Aufgabe aus Wochenplan, Schwarzem Brett und den Vorschlägen
+
 ## 0.36.0 – Wildnis: draußen sammeln (23.10.2026)
 - **Wildnis:** Ein neues Schild über dem Burghof führt nach draußen. Wer einen Baum, ein Blatt, eine Blume, einen Stein oder eine Mauer fotografiert, bekommt Material. Die Bilderkennung läuft komplett auf dem Handy, ohne Internet und ohne Standort; das Foto wird gleich danach gelöscht
 - **Bruno Borkenbart und Greta Granit:** Der Holzfäller und die Steinmetzin geben jeden Tag Sammelaufträge mit Sternsplittern und Material
