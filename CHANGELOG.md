@@ -3,6 +3,14 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.39.0 – Die Häuser (23.10.2026)
+- **Merlins Häuserprüfung:** Beim Öffnen beginnt der Aufnahmeritus. Merlin stellt Fragen mit großen Bildkarten (Erwachsene bekommen eigene Fragen) und empfiehlt ein Haus. Man darf aber auch ein anderes wählen
+- **Anwärter:** Jedes Haus hat einen Hausmeister – Ritterin Leonora (Löwe), Meister Aquilon (Adler), Silvana Flinkzunge (Schlange), Bruder Barnabas (Dachs). Er stellt drei Aufnahmeprüfungen passend zu den Werten des Hauses, zum Beispiel einen Dungeon-Boss besiegen, ein Rezept in der Schmiede entdecken oder eine Quest vor der Erinnerung schaffen. Ist eine Funktion ausgeschaltet, gibt es stattdessen eine andere Prüfung
+- **Aufnahme-Zeremonie:** Wer alle drei Prüfungen besteht, wird ins Haus aufgenommen und bekommt Wappen und Hausfarbe. Bis dahin darf man noch wechseln
+- **Hauspunkte:** Für Quests, Routinen, Folgen der Geschichte, Dungeons, Meisterprüfungen und Familien-Aufträge
+- **Hauspokal:** Sind in der Familie mehrere Häuser vertreten, gewinnt jede Woche das Haus mit den meisten Punkten. Sind alle im selben Haus, gibt es ein Familienziel – wer es schafft, bekommt in der Woche danach den Familien-Booster mit extra Sternsplittern für jede Quest
+- Bisherige Haus-Zuteilungen gelten nicht mehr, alle durchlaufen den neuen Aufnahmeritus
+
 ## 0.38.0 – Die neue Schmiede (23.10.2026)
 - **Werkbank mit 3×3-Raster:** Material selbst ins Raster legen, die Form entscheidet, was entsteht. Ein Stück Holz ergibt Bretter, zwei Bretter übereinander Stäbe, daraus und aus Feldstein oder Barren entstehen Werkzeuge, Schwerter, Helme, Rüstungen und Schilde
 - **Rezepte entdecken:** Neue Rezepte findet man durch Ausprobieren. Im Rezeptbuch gibt Meister Ambos Tipps zur Form, entdeckte Rezepte zeigen ihr Muster
