@@ -3,6 +3,15 @@
 > **Versionsschema:** Solange die App in der Beta ist, bleibt die Versionsnummer bei 0.x.
 > Die früheren Pakete „1.0.0-beta1/2/3“ heißen jetzt 0.13.0, 0.14.0 und 0.15.0. Version 1.0.0 gibt es erst zur Veröffentlichung.
 
+## 0.36.0 – Wildnis: draußen sammeln (23.10.2026)
+- **Wildnis:** Ein neues Schild über dem Burghof führt nach draußen. Wer einen Baum, ein Blatt, eine Blume, einen Stein oder eine Mauer fotografiert, bekommt Material. Die Bilderkennung läuft komplett auf dem Handy, ohne Internet und ohne Standort; das Foto wird gleich danach gelöscht
+- **Bruno Borkenbart und Greta Granit:** Der Holzfäller und die Steinmetzin geben jeden Tag Sammelaufträge mit Sternsplittern und Material
+- **5 Stufen:** Eichenholz bis Glutholz und Feldstein bis Drachenerz. Wer genug sammelt und die Aufträge erledigt, besteht die Meisterprüfung und baut ein besseres Werkzeug (Axt und Spitzhacke). Mit dem neuen Werkzeug findet man das bessere Material
+- **Gegen Dauerknipsen:** Pro Tag nur ein paar Funde je Material, dasselbe Foto zählt nicht doppelt
+- **Wander-Eier:** Alle 3.000 Schritte gibt es ein Ei für die Haustier-Sammlung (Schrittzähler des Handys, nur mit Erlaubnis)
+- **Einführungen:** Beim ersten Besuch erklären Merlin (Burghof), Bruno und Greta (Wildnis), Meister Ambos (Schmiede), Professor Zischel (Spielhalle) und Bodo (Avalon) ihren Ort, vorgelesen und jederzeit über „?“ wiederholbar
+- Mondstein heißt jetzt Feldstein. Eltern können die Wildnis unter Funktionen abschalten
+
 ## 0.35.1 – Fehlerbehebung (22.10.2026)
 - **Eltern-Helden:** Beim Erstellen eines Helden für Eltern wird kein Alter mehr abgefragt (vorher nur 3 bis 17 Jahre möglich)
 - **Updates auf Kinderhandys:** Erreicht ein Handy die Update-Seite nicht (z. B. wegen Kindersicherung im Router), holt es sich die neue Version jetzt direkt von einem Familienhandy im selben WLAN. In den Update-Einstellungen steht außerdem, warum die letzte Prüfung nicht geklappt hat. Ab Android 12 laufen spätere Updates ohne zusätzliche Bestätigung
